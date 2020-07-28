@@ -53,3 +53,4 @@ while True:
                 except Exception as doc_enc_err:
                     sg.Print(doc_enc_err)
             
+window.close()
