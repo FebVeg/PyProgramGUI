@@ -12,7 +12,7 @@ layout = [
     ])],
 ]
 
-window = sg.Window('Terminal - FebVeg', layout)
+window = sg.Window('Terminal - Python 3.7.7 - FebVeg', layout)
 
 while True:
     try:
